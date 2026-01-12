@@ -1,38 +1,41 @@
-🚧 Dashboard de Acidentes DER - 2025
+# 🚦 Dashboard de Acidentes Rodoviários – DER
 
-📌 Objetivo
+## 📌 Objetivo do Projeto
+Este projeto foi desenvolvido como parte dos meus **estudos em Ciências de Dados**, com o objetivo de **treinar e aprimorar minhas habilidades em Power BI**.  
+A proposta é analisar os acidentes rodoviários registrados pelo DER, oferecendo uma visão estratégica que apoie ações preventivas, decisões baseadas em dados e iniciativas de segurança pública.
 
-Analisar os dados de acidentes rodoviários registrados pelo DER em 2025, com foco em identificar padrões, regiões críticas e indicadores de segurança viária.
+---
 
-📊 Indicadores (KPIs)
+## 🛠️ Tecnologias Utilizadas
+- **Power BI** → construção do dashboard interativo  
+- **DAX** → criação de medidas e cálculos personalizados  
+- **Power Query (M)** → tratamento e transformação dos dados  
+- **GitHub** → versionamento e publicação do projeto  
 
-Total de acidentes
-Acidentes com vítimas
-Acidentes fatais
-Distribuição por tipo de acidente
-Distribuição por rodovia
-Distribuição por município
-Evolução temporal dos acidentes
+---
 
-📈 Visualizações
+## 📊 Estrutura do Dashboard
+- **KPIs principais**: Total de Acidentes, Acidentes com Vítimas, Vítimas Fatais  
+- **Mapa interativo**: distribuição de acidentes por município  
+- **Gráficos de análise**:
+  - Tipos de acidente (donut)  
+  - Total de vítimas por rodovia (barras)  
+  - Evolução mensal dos acidentes com vítimas (linha)  
+  - Segmentação regional (rosca)
+ 
+---
 
-Gráfico de barras: Total de Vítimas por Rodovia
-Gráfico de área: Evolução temporal dos acidentes por mês
-Gráfico de pizza: proporção de tipos de acidente
-Mapa: acidentes por município
+## 📈 Insights Obtidos
+- A maioria dos acidentes não gera vítimas, mas os casos fatais representam impacto significativo.  
+- Algumas rodovias concentram maior número de vítimas, indicando pontos críticos de atenção.  
+- A distribuição por município e região permite identificar áreas de maior risco.  
+- A análise temporal mostra variações mensais que podem apoiar campanhas sazonais de prevenção.  
 
-📅 Período analisado
+---
 
-01/01/2025 a 31/12/2025Data de atualização: 10/01/2026
+## 📝 Conclusão
+Este dashboard oferece uma **visão estratégica dos acidentes rodoviários registrados pelo DER**, permitindo ações preventivas, decisões baseadas em dados e apoio à segurança pública. 
 
-🛠️ Tecnologias utilizadas
-
-Microsoft Power BI
-Modelagem de dados
-Visualizações interativas
-Segmentações e filtros dinâmicos
-
-🧠 Conclusão
 
 Este dashboard oferece uma visão estratégica dos acidentes rodoviários registrados pelo DER, permitindo ações preventivas, decisões baseadas em dados e apoio à segurança pública.
 O projeto foi desenvolvido como parte dos meus estudos em Ciências de Dados, com o objetivo de treinar e aprimorar minhas habilidades em Power BI. Além de servir como exercício prático,
