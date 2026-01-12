@@ -1,7 +1,6 @@
 # 🚦 Dashboard de Acidentes Rodoviários – DER (2025)
 
-## 📌 Objetivo do Projeto
-Este projeto foi desenvolvido como parte dos meus **estudos em Ciências de Dados**, com o objetivo de **treinar e aprimorar minhas habilidades em Power BI**.  
+## 📌 Objetivo do Projeto 
 A proposta é analisar os acidentes rodoviários registrados pelo DER, oferecendo uma visão estratégica que apoie ações preventivas, decisões baseadas em dados e iniciativas de segurança pública.
 
 ---
@@ -34,9 +33,6 @@ A proposta é analisar os acidentes rodoviários registrados pelo DER, oferecend
 ---
 
 ## 📝 Conclusão
-Este dashboard oferece uma **visão estratégica dos acidentes rodoviários registrados pelo DER**, permitindo ações preventivas, decisões baseadas em dados e apoio à segurança pública. 
-
-
 Este dashboard oferece uma visão estratégica dos acidentes rodoviários registrados pelo DER, permitindo ações preventivas, decisões baseadas em dados e apoio à segurança pública.
 O projeto foi desenvolvido como parte dos meus estudos em Ciências de Dados, com o objetivo de treinar e aprimorar minhas habilidades em Power BI. Além de servir como exercício prático,
 ele demonstra como a análise de dados pode ser aplicada em problemas reais, contribuindo para insights relevantes na área de segurança viária.
