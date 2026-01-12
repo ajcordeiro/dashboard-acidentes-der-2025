@@ -1,4 +1,4 @@
-# 🚦 Dashboard de Acidentes Rodoviários – DER
+# 🚦 Dashboard de Acidentes Rodoviários – DER (2025)
 
 ## 📌 Objetivo do Projeto
 Este projeto foi desenvolvido como parte dos meus **estudos em Ciências de Dados**, com o objetivo de **treinar e aprimorar minhas habilidades em Power BI**.  
